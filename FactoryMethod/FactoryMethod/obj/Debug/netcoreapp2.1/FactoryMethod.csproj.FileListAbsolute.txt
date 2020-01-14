@@ -1,0 +1,10 @@
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.deps.json
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.dll
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.pdb
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.dll
+C:\Users\rabi.aranda\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.pdb
